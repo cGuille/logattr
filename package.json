@@ -1,0 +1,13 @@
+{
+  "name": "logattr",
+  "description": "CLI command to parse logs containing key1='val1' key2='val2' data.",
+  "version": "0.1.0",
+  "main": "bin/logattr",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "byline": "^4.2.1"
+  }
+}
